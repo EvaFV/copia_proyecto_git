@@ -1,3 +1,7 @@
 Empezando a escribir en master.
 
+<<<<<<< HEAD
 Modificando en la rama master.
+=======
+Modificando desde Branch1.
+>>>>>>> Branch1
